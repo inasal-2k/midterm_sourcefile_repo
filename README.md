@@ -44,3 +44,9 @@ working directory.
 
 This repository was cloned from GitHub. Changes can be developed on a
 separate branch, committed, and merged into `main` after review.
+
+## Branch workflow practiced
+
+The Git workflow practiced here includes cloning the repository, making a
+change on a separate branch, committing it, merging it into `main` through a
+pull request, and pulling the updated `main` branch.
