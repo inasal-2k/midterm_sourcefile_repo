@@ -39,3 +39,8 @@ python student_grade_analyzer.py
 
 The program can save its generated report as `grade_report.txt` in the current
 working directory.
+
+## Git workflow practice
+
+This repository was cloned from GitHub. Changes can be developed on a
+separate branch, committed, and merged into `main` after review.
